@@ -1,0 +1,3 @@
+Esta pasta armazena os arquivos do banco de dados (JSON):
+  user_accounts.json  - contas de usuário do portal
+  pessoas.json        - objetos cadastrados no recurso banco (criado automaticamente)
